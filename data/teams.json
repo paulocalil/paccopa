@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MEX",
+    "nome": "México",
+    "sigla": "MEX",
+    "confederacao": "CONCACAF",
+    "rankingFifa": 15
+  },
+  {
+    "id": "RSA",
+    "nome": "África do Sul",
+    "sigla": "RSA",
+    "confederacao": "CAF",
+    "rankingFifa": 61
+  },
+  {
+    "id": "KOR",
+    "nome": "Coreia do Sul",
+    "sigla": "KOR",
+    "confederacao": "AFC",
+    "rankingFifa": 22
+  },
+  {
+    "id": "CZE",
+    "nome": "Tchéquia",
+    "sigla": "CZE",
+    "confederacao": "UEFA",
+    "rankingFifa": 43
+  },
+  {
+    "id": "CAN",
+    "nome": "Canadá",
+    "sigla": "CAN",
+    "confederacao": "CONCACAF",
+    "rankingFifa": 27
+  },
+  {
+    "id": "BIH",
+    "nome": "Bósnia e Herzegovina",
+    "sigla": "BIH",
+    "confederacao": "UEFA",
+    "rankingFifa": 74
+  },
+  {
+    "id": "QAT",
+    "nome": "Catar",
+    "sigla": "QAT",
+    "confederacao": "AFC",
+    "rankingFifa": 51
+  },
+  {
+    "id": "SUI",
+    "nome": "Suíça",
+    "sigla": "SUI",
+    "confederacao": "UEFA",
+    "rankingFifa": 17
+  },
+  {
+    "id": "BRA",
+    "nome": "Brasil",
+    "sigla": "BRA",
+    "confederacao": "CONMEBOL",
+    "rankingFifa": 5
+  },
+  {
+    "id": "MAR",
+    "nome": "Marrocos",
+    "sigla": "MAR",
+    "confederacao": "CAF",
+    "rankingFifa": 11
+  },
+  {
+    "id": "HAI",
+    "nome": "Haiti",
+    "sigla": "HAI",
+    "confederacao": "CONCACAF",
+    "rankingFifa": 84
+  },
+  {
+    "id": "SCO",
+    "nome": "Escócia",
+    "sigla": "SCO",
+    "confederacao": "UEFA",
+    "rankingFifa": 36
+  },
+  {
+    "id": "USA",
+    "nome": "Estados Unidos",
+    "sigla": "USA",
+    "confederacao": "CONCACAF",
+    "rankingFifa": 14
+  },
+  {
+    "id": "PAR",
+    "nome": "Paraguai",
+    "sigla": "PAR",
+    "confederacao": "CONMEBOL",
+    "rankingFifa": 39
+  },
+  {
+    "id": "AUS",
+    "nome": "Austrália",
+    "sigla": "AUS",
+    "confederacao": "AFC",
+    "rankingFifa": 26
+  },
+  {
+    "id": "TUR",
+    "nome": "Turquia",
+    "sigla": "TUR",
+    "confederacao": "UEFA",
+    "rankingFifa": 25
+  },
+  {
+    "id": "GER",
+    "nome": "Alemanha",
+    "sigla": "GER",
+    "confederacao": "UEFA",
+    "rankingFifa": 9
+  },
+  {
+    "id": "CUW",
+    "nome": "Curaçao",
+    "sigla": "CUW",
+    "confederacao": "CONCACAF",
+    "rankingFifa": 82
+  },
+  {
+    "id": "CIV",
+    "nome": "Costa do Marfim",
+    "sigla": "CIV",
+    "confederacao": "CAF",
+    "rankingFifa": 42
+  },
+  {
+    "id": "ECU",
+    "nome": "Equador",
+    "sigla": "ECU",
+    "confederacao": "CONMEBOL",
+    "rankingFifa": 23
+  },
+  {
+    "id": "NED",
+    "nome": "Países Baixos",
+    "sigla": "NED",
+    "confederacao": "UEFA",
+    "rankingFifa": 7
+  },
+  {
+    "id": "JPN",
+    "nome": "Japão",
+    "sigla": "JPN",
+    "confederacao": "AFC",
+    "rankingFifa": 18
+  },
+  {
+    "id": "SWE",
+    "nome": "Suécia",
+    "sigla": "SWE",
+    "confederacao": "UEFA",
+    "rankingFifa": 41
+  },
+  {
+    "id": "TUN",
+    "nome": "Tunísia",
+    "sigla": "TUN",
+    "confederacao": "CAF",
+    "rankingFifa": 40
+  },
+  {
+    "id": "BEL",
+    "nome": "Bélgica",
+    "sigla": "BEL",
+    "confederacao": "UEFA",
+    "rankingFifa": 8
+  },
+  {
+    "id": "EGY",
+    "nome": "Egito",
+    "sigla": "EGY",
+    "confederacao": "CAF",
+    "rankingFifa": 34
+  },
+  {
+    "id": "IRN",
+    "nome": "Irã",
+    "sigla": "IRN",
+    "confederacao": "AFC",
+    "rankingFifa": 20
+  },
+  {
+    "id": "NZL",
+    "nome": "Nova Zelândia",
+    "sigla": "NZL",
+    "confederacao": "OFC",
+    "rankingFifa": 86
+  },
+  {
+    "id": "ESP",
+    "nome": "Espanha",
+    "sigla": "ESP",
+    "confederacao": "UEFA",
+    "rankingFifa": 1
+  },
+  {
+    "id": "CPV",
+    "nome": "Cabo Verde",
+    "sigla": "CPV",
+    "confederacao": "CAF",
+    "rankingFifa": 68
+  },
+  {
+    "id": "KSA",
+    "nome": "Arábia Saudita",
+    "sigla": "KSA",
+    "confederacao": "AFC",
+    "rankingFifa": 60
+  },
+  {
+    "id": "URU",
+    "nome": "Uruguai",
+    "sigla": "URU",
+    "confederacao": "CONMEBOL",
+    "rankingFifa": 16
+  },
+  {
+    "id": "FRA",
+    "nome": "França",
+    "sigla": "FRA",
+    "confederacao": "UEFA",
+    "rankingFifa": 3
+  },
+  {
+    "id": "SEN",
+    "nome": "Senegal",
+    "sigla": "SEN",
+    "confederacao": "CAF",
+    "rankingFifa": 19
+  },
+  {
+    "id": "IRQ",
+    "nome": "Iraque",
+    "sigla": "IRQ",
+    "confederacao": "AFC",
+    "rankingFifa": 58
+  },
+  {
+    "id": "NOR",
+    "nome": "Noruega",
+    "sigla": "NOR",
+    "confederacao": "UEFA",
+    "rankingFifa": 29
+  },
+  {
+    "id": "ARG",
+    "nome": "Argentina",
+    "sigla": "ARG",
+    "confederacao": "CONMEBOL",
+    "rankingFifa": 2
+  },
+  {
+    "id": "ALG",
+    "nome": "Argélia",
+    "sigla": "ALG",
+    "confederacao": "CAF",
+    "rankingFifa": 35
+  },
+  {
+    "id": "AUT",
+    "nome": "Áustria",
+    "sigla": "AUT",
+    "confederacao": "UEFA",
+    "rankingFifa": 24
+  },
+  {
+    "id": "JOR",
+    "nome": "Jordânia",
+    "sigla": "JOR",
+    "confederacao": "AFC",
+    "rankingFifa": 66
+  },
+  {
+    "id": "POR",
+    "nome": "Portugal",
+    "sigla": "POR",
+    "confederacao": "UEFA",
+    "rankingFifa": 6
+  },
+  {
+    "id": "COD",
+    "nome": "República Democrática do Congo",
+    "sigla": "COD",
+    "confederacao": "CAF",
+    "rankingFifa": 56
+  },
+  {
+    "id": "UZB",
+    "nome": "Uzbequistão",
+    "sigla": "UZB",
+    "confederacao": "AFC",
+    "rankingFifa": 50
+  },
+  {
+    "id": "COL",
+    "nome": "Colômbia",
+    "sigla": "COL",
+    "confederacao": "CONMEBOL",
+    "rankingFifa": 13
+  },
+  {
+    "id": "ENG",
+    "nome": "Inglaterra",
+    "sigla": "ENG",
+    "confederacao": "UEFA",
+    "rankingFifa": 4
+  },
+  {
+    "id": "CRO",
+    "nome": "Croácia",
+    "sigla": "CRO",
+    "confederacao": "UEFA",
+    "rankingFifa": 10
+  },
+  {
+    "id": "GHA",
+    "nome": "Gana",
+    "sigla": "GHA",
+    "confederacao": "CAF",
+    "rankingFifa": 72
+  },
+  {
+    "id": "PAN",
+    "nome": "Panamá",
+    "sigla": "PAN",
+    "confederacao": "CONCACAF",
+    "rankingFifa": 30
+  }
+]

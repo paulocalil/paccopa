@@ -1,0 +1,31 @@
+{
+  "torneio": {
+    "nome": "Copa do Mundo FIFA 2026",
+    "sedes": ["Estados Unidos", "Canadá", "México"],
+    "inicio": "2026-06-11",
+    "fim": "2026-07-19",
+    "fusoExibicao": "America/Sao_Paulo"
+  },
+  "pontos": { "vitoria": 3, "empate": 1, "derrota": 0 },
+  "criteriosDesempate": [
+    "pontos",
+    "confrontoDireto",
+    "saldoGeral",
+    "golsGeral",
+    "fairPlay",
+    "rankingFifa",
+    "sorteio"
+  ],
+  "fairPlay": {
+    "amarelo": -1,
+    "segundoAmarelo": -3,
+    "vermelhoDireto": -4,
+    "amareloMaisVermelho": -5
+  },
+  "bolao": {
+    "placarExato": 15,
+    "resultadoCerto": 10,
+    "totalGolsCerto": 5,
+    "erro": 0
+  }
+}

@@ -1,0 +1,2674 @@
+[
+  {
+    "id": "M01",
+    "numero": 1,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-11T19:00:00Z",
+    "estadioId": "azteca",
+    "mandante": {
+      "tipo": "time",
+      "ref": "MEX"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "RSA"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "A"
+  },
+  {
+    "id": "M02",
+    "numero": 2,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-12T02:00:00Z",
+    "estadioId": "akron",
+    "mandante": {
+      "tipo": "time",
+      "ref": "KOR"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "CZE"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "A"
+  },
+  {
+    "id": "M03",
+    "numero": 3,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-12T19:00:00Z",
+    "estadioId": "bmo",
+    "mandante": {
+      "tipo": "time",
+      "ref": "CAN"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "BIH"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "B"
+  },
+  {
+    "id": "M04",
+    "numero": 4,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-13T01:00:00Z",
+    "estadioId": "sofi",
+    "mandante": {
+      "tipo": "time",
+      "ref": "USA"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "PAR"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "D"
+  },
+  {
+    "id": "M05",
+    "numero": 5,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-14T01:00:00Z",
+    "estadioId": "gillette",
+    "mandante": {
+      "tipo": "time",
+      "ref": "HAI"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "SCO"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "C"
+  },
+  {
+    "id": "M06",
+    "numero": 6,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-14T04:00:00Z",
+    "estadioId": "bcplace",
+    "mandante": {
+      "tipo": "time",
+      "ref": "AUS"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "TUR"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "D"
+  },
+  {
+    "id": "M07",
+    "numero": 7,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-13T22:00:00Z",
+    "estadioId": "metlife",
+    "mandante": {
+      "tipo": "time",
+      "ref": "BRA"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "MAR"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "C"
+  },
+  {
+    "id": "M08",
+    "numero": 8,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-13T19:00:00Z",
+    "estadioId": "levis",
+    "mandante": {
+      "tipo": "time",
+      "ref": "QAT"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "SUI"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "B"
+  },
+  {
+    "id": "M09",
+    "numero": 9,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-14T23:00:00Z",
+    "estadioId": "lincoln",
+    "mandante": {
+      "tipo": "time",
+      "ref": "CIV"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "ECU"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "E"
+  },
+  {
+    "id": "M10",
+    "numero": 10,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-14T17:00:00Z",
+    "estadioId": "nrg",
+    "mandante": {
+      "tipo": "time",
+      "ref": "GER"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "CUW"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "E"
+  },
+  {
+    "id": "M11",
+    "numero": 11,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-14T20:00:00Z",
+    "estadioId": "att",
+    "mandante": {
+      "tipo": "time",
+      "ref": "NED"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "JPN"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "F"
+  },
+  {
+    "id": "M12",
+    "numero": 12,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-15T02:00:00Z",
+    "estadioId": "bbva",
+    "mandante": {
+      "tipo": "time",
+      "ref": "SWE"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "TUN"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "F"
+  },
+  {
+    "id": "M13",
+    "numero": 13,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-15T22:00:00Z",
+    "estadioId": "hardrock",
+    "mandante": {
+      "tipo": "time",
+      "ref": "KSA"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "URU"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "H"
+  },
+  {
+    "id": "M14",
+    "numero": 14,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-15T16:00:00Z",
+    "estadioId": "mercedes",
+    "mandante": {
+      "tipo": "time",
+      "ref": "ESP"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "CPV"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "H"
+  },
+  {
+    "id": "M15",
+    "numero": 15,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-16T01:00:00Z",
+    "estadioId": "sofi",
+    "mandante": {
+      "tipo": "time",
+      "ref": "IRN"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "NZL"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "G"
+  },
+  {
+    "id": "M16",
+    "numero": 16,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-15T19:00:00Z",
+    "estadioId": "lumen",
+    "mandante": {
+      "tipo": "time",
+      "ref": "BEL"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "EGY"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "G"
+  },
+  {
+    "id": "M17",
+    "numero": 17,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-16T19:00:00Z",
+    "estadioId": "metlife",
+    "mandante": {
+      "tipo": "time",
+      "ref": "FRA"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "SEN"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "I"
+  },
+  {
+    "id": "M18",
+    "numero": 18,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-16T22:00:00Z",
+    "estadioId": "gillette",
+    "mandante": {
+      "tipo": "time",
+      "ref": "IRQ"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "NOR"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "I"
+  },
+  {
+    "id": "M19",
+    "numero": 19,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-17T01:00:00Z",
+    "estadioId": "arrowhead",
+    "mandante": {
+      "tipo": "time",
+      "ref": "ARG"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "ALG"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "J"
+  },
+  {
+    "id": "M20",
+    "numero": 20,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-17T04:00:00Z",
+    "estadioId": "levis",
+    "mandante": {
+      "tipo": "time",
+      "ref": "AUT"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "JOR"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "J"
+  },
+  {
+    "id": "M21",
+    "numero": 21,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-17T23:00:00Z",
+    "estadioId": "bmo",
+    "mandante": {
+      "tipo": "time",
+      "ref": "GHA"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "PAN"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "L"
+  },
+  {
+    "id": "M22",
+    "numero": 22,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-17T20:00:00Z",
+    "estadioId": "att",
+    "mandante": {
+      "tipo": "time",
+      "ref": "ENG"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "CRO"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "L"
+  },
+  {
+    "id": "M23",
+    "numero": 23,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-17T17:00:00Z",
+    "estadioId": "nrg",
+    "mandante": {
+      "tipo": "time",
+      "ref": "POR"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "COD"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "K"
+  },
+  {
+    "id": "M24",
+    "numero": 24,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-18T02:00:00Z",
+    "estadioId": "azteca",
+    "mandante": {
+      "tipo": "time",
+      "ref": "UZB"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "COL"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "K"
+  },
+  {
+    "id": "M25",
+    "numero": 25,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-18T16:00:00Z",
+    "estadioId": "mercedes",
+    "mandante": {
+      "tipo": "time",
+      "ref": "CZE"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "RSA"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "A"
+  },
+  {
+    "id": "M26",
+    "numero": 26,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-18T19:00:00Z",
+    "estadioId": "sofi",
+    "mandante": {
+      "tipo": "time",
+      "ref": "SUI"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "BIH"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "B"
+  },
+  {
+    "id": "M27",
+    "numero": 27,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-18T22:00:00Z",
+    "estadioId": "bcplace",
+    "mandante": {
+      "tipo": "time",
+      "ref": "CAN"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "QAT"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "B"
+  },
+  {
+    "id": "M28",
+    "numero": 28,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-19T01:00:00Z",
+    "estadioId": "akron",
+    "mandante": {
+      "tipo": "time",
+      "ref": "MEX"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "KOR"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "A"
+  },
+  {
+    "id": "M29",
+    "numero": 29,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-20T00:30:00Z",
+    "estadioId": "lincoln",
+    "mandante": {
+      "tipo": "time",
+      "ref": "BRA"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "HAI"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "C"
+  },
+  {
+    "id": "M30",
+    "numero": 30,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-19T22:00:00Z",
+    "estadioId": "gillette",
+    "mandante": {
+      "tipo": "time",
+      "ref": "SCO"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "MAR"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "C"
+  },
+  {
+    "id": "M31",
+    "numero": 31,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-20T03:00:00Z",
+    "estadioId": "levis",
+    "mandante": {
+      "tipo": "time",
+      "ref": "TUR"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "PAR"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "D"
+  },
+  {
+    "id": "M32",
+    "numero": 32,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-19T19:00:00Z",
+    "estadioId": "lumen",
+    "mandante": {
+      "tipo": "time",
+      "ref": "USA"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "AUS"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "D"
+  },
+  {
+    "id": "M33",
+    "numero": 33,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-20T20:00:00Z",
+    "estadioId": "bmo",
+    "mandante": {
+      "tipo": "time",
+      "ref": "GER"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "CIV"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "E"
+  },
+  {
+    "id": "M34",
+    "numero": 34,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-21T00:00:00Z",
+    "estadioId": "arrowhead",
+    "mandante": {
+      "tipo": "time",
+      "ref": "ECU"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "CUW"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "E"
+  },
+  {
+    "id": "M35",
+    "numero": 35,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-20T17:00:00Z",
+    "estadioId": "nrg",
+    "mandante": {
+      "tipo": "time",
+      "ref": "NED"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "SWE"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "F"
+  },
+  {
+    "id": "M36",
+    "numero": 36,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-21T04:00:00Z",
+    "estadioId": "bbva",
+    "mandante": {
+      "tipo": "time",
+      "ref": "TUN"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "JPN"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "F"
+  },
+  {
+    "id": "M37",
+    "numero": 37,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-21T22:00:00Z",
+    "estadioId": "hardrock",
+    "mandante": {
+      "tipo": "time",
+      "ref": "URU"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "CPV"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "H"
+  },
+  {
+    "id": "M38",
+    "numero": 38,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-21T16:00:00Z",
+    "estadioId": "mercedes",
+    "mandante": {
+      "tipo": "time",
+      "ref": "ESP"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "KSA"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "H"
+  },
+  {
+    "id": "M39",
+    "numero": 39,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-21T19:00:00Z",
+    "estadioId": "sofi",
+    "mandante": {
+      "tipo": "time",
+      "ref": "BEL"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "IRN"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "G"
+  },
+  {
+    "id": "M40",
+    "numero": 40,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-22T01:00:00Z",
+    "estadioId": "bcplace",
+    "mandante": {
+      "tipo": "time",
+      "ref": "NZL"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "EGY"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "G"
+  },
+  {
+    "id": "M41",
+    "numero": 41,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-23T00:00:00Z",
+    "estadioId": "metlife",
+    "mandante": {
+      "tipo": "time",
+      "ref": "NOR"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "SEN"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "I"
+  },
+  {
+    "id": "M42",
+    "numero": 42,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-22T21:00:00Z",
+    "estadioId": "lincoln",
+    "mandante": {
+      "tipo": "time",
+      "ref": "FRA"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "IRQ"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "I"
+  },
+  {
+    "id": "M43",
+    "numero": 43,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-22T17:00:00Z",
+    "estadioId": "att",
+    "mandante": {
+      "tipo": "time",
+      "ref": "ARG"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "AUT"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "J"
+  },
+  {
+    "id": "M44",
+    "numero": 44,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-23T03:00:00Z",
+    "estadioId": "levis",
+    "mandante": {
+      "tipo": "time",
+      "ref": "JOR"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "ALG"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "J"
+  },
+  {
+    "id": "M45",
+    "numero": 45,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-23T20:00:00Z",
+    "estadioId": "gillette",
+    "mandante": {
+      "tipo": "time",
+      "ref": "ENG"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "GHA"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "L"
+  },
+  {
+    "id": "M46",
+    "numero": 46,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-23T23:00:00Z",
+    "estadioId": "bmo",
+    "mandante": {
+      "tipo": "time",
+      "ref": "PAN"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "CRO"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "L"
+  },
+  {
+    "id": "M47",
+    "numero": 47,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-23T17:00:00Z",
+    "estadioId": "nrg",
+    "mandante": {
+      "tipo": "time",
+      "ref": "POR"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "UZB"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "K"
+  },
+  {
+    "id": "M48",
+    "numero": 48,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-24T02:00:00Z",
+    "estadioId": "akron",
+    "mandante": {
+      "tipo": "time",
+      "ref": "COL"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "COD"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "K"
+  },
+  {
+    "id": "M49",
+    "numero": 49,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-24T22:00:00Z",
+    "estadioId": "hardrock",
+    "mandante": {
+      "tipo": "time",
+      "ref": "SCO"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "BRA"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "C"
+  },
+  {
+    "id": "M50",
+    "numero": 50,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-24T22:00:00Z",
+    "estadioId": "mercedes",
+    "mandante": {
+      "tipo": "time",
+      "ref": "MAR"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "HAI"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "C"
+  },
+  {
+    "id": "M51",
+    "numero": 51,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-24T19:00:00Z",
+    "estadioId": "bcplace",
+    "mandante": {
+      "tipo": "time",
+      "ref": "SUI"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "CAN"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "B"
+  },
+  {
+    "id": "M52",
+    "numero": 52,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-24T19:00:00Z",
+    "estadioId": "lumen",
+    "mandante": {
+      "tipo": "time",
+      "ref": "BIH"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "QAT"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "B"
+  },
+  {
+    "id": "M53",
+    "numero": 53,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-25T01:00:00Z",
+    "estadioId": "azteca",
+    "mandante": {
+      "tipo": "time",
+      "ref": "CZE"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "MEX"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "A"
+  },
+  {
+    "id": "M54",
+    "numero": 54,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-25T01:00:00Z",
+    "estadioId": "bbva",
+    "mandante": {
+      "tipo": "time",
+      "ref": "RSA"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "KOR"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "A"
+  },
+  {
+    "id": "M55",
+    "numero": 55,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-25T20:00:00Z",
+    "estadioId": "lincoln",
+    "mandante": {
+      "tipo": "time",
+      "ref": "CUW"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "CIV"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "E"
+  },
+  {
+    "id": "M56",
+    "numero": 56,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-25T20:00:00Z",
+    "estadioId": "metlife",
+    "mandante": {
+      "tipo": "time",
+      "ref": "ECU"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "GER"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "E"
+  },
+  {
+    "id": "M57",
+    "numero": 57,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-25T23:00:00Z",
+    "estadioId": "att",
+    "mandante": {
+      "tipo": "time",
+      "ref": "JPN"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "SWE"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "F"
+  },
+  {
+    "id": "M58",
+    "numero": 58,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-25T23:00:00Z",
+    "estadioId": "arrowhead",
+    "mandante": {
+      "tipo": "time",
+      "ref": "TUN"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "NED"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "F"
+  },
+  {
+    "id": "M59",
+    "numero": 59,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-26T02:00:00Z",
+    "estadioId": "sofi",
+    "mandante": {
+      "tipo": "time",
+      "ref": "TUR"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "USA"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "D"
+  },
+  {
+    "id": "M60",
+    "numero": 60,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-26T02:00:00Z",
+    "estadioId": "levis",
+    "mandante": {
+      "tipo": "time",
+      "ref": "PAR"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "AUS"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "D"
+  },
+  {
+    "id": "M61",
+    "numero": 61,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-26T19:00:00Z",
+    "estadioId": "gillette",
+    "mandante": {
+      "tipo": "time",
+      "ref": "NOR"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "FRA"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "I"
+  },
+  {
+    "id": "M62",
+    "numero": 62,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-26T19:00:00Z",
+    "estadioId": "bmo",
+    "mandante": {
+      "tipo": "time",
+      "ref": "SEN"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "IRQ"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "I"
+  },
+  {
+    "id": "M63",
+    "numero": 63,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-27T03:00:00Z",
+    "estadioId": "lumen",
+    "mandante": {
+      "tipo": "time",
+      "ref": "EGY"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "IRN"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "G"
+  },
+  {
+    "id": "M64",
+    "numero": 64,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-27T03:00:00Z",
+    "estadioId": "bcplace",
+    "mandante": {
+      "tipo": "time",
+      "ref": "NZL"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "BEL"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "G"
+  },
+  {
+    "id": "M65",
+    "numero": 65,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-27T00:00:00Z",
+    "estadioId": "nrg",
+    "mandante": {
+      "tipo": "time",
+      "ref": "CPV"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "KSA"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "H"
+  },
+  {
+    "id": "M66",
+    "numero": 66,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-27T00:00:00Z",
+    "estadioId": "akron",
+    "mandante": {
+      "tipo": "time",
+      "ref": "URU"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "ESP"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "H"
+  },
+  {
+    "id": "M67",
+    "numero": 67,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-27T21:00:00Z",
+    "estadioId": "metlife",
+    "mandante": {
+      "tipo": "time",
+      "ref": "PAN"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "ENG"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "L"
+  },
+  {
+    "id": "M68",
+    "numero": 68,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-27T21:00:00Z",
+    "estadioId": "lincoln",
+    "mandante": {
+      "tipo": "time",
+      "ref": "CRO"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "GHA"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "L"
+  },
+  {
+    "id": "M69",
+    "numero": 69,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-28T02:00:00Z",
+    "estadioId": "arrowhead",
+    "mandante": {
+      "tipo": "time",
+      "ref": "ALG"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "AUT"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "J"
+  },
+  {
+    "id": "M70",
+    "numero": 70,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-28T02:00:00Z",
+    "estadioId": "att",
+    "mandante": {
+      "tipo": "time",
+      "ref": "JOR"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "ARG"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "J"
+  },
+  {
+    "id": "M71",
+    "numero": 71,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-27T23:30:00Z",
+    "estadioId": "hardrock",
+    "mandante": {
+      "tipo": "time",
+      "ref": "COL"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "POR"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "K"
+  },
+  {
+    "id": "M72",
+    "numero": 72,
+    "fase": "grupo",
+    "dataHoraUTC": "2026-06-27T23:30:00Z",
+    "estadioId": "mercedes",
+    "mandante": {
+      "tipo": "time",
+      "ref": "COD"
+    },
+    "visitante": {
+      "tipo": "time",
+      "ref": "UZB"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    },
+    "grupo": "K"
+  },
+  {
+    "id": "M73",
+    "numero": 73,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-06-28T19:00:00Z",
+    "estadioId": "sofi",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Runner-up Group A"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Runner-up Group B"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M74",
+    "numero": 74,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-06-29T20:30:00Z",
+    "estadioId": "gillette",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Group E"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "3rd Group A/B/C/D/F"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M75",
+    "numero": 75,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-06-30T01:00:00Z",
+    "estadioId": "bbva",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Group F"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Runner-up Group C"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M76",
+    "numero": 76,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-06-29T17:00:00Z",
+    "estadioId": "nrg",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Group C"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Runner-up Group F"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M77",
+    "numero": 77,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-06-30T21:00:00Z",
+    "estadioId": "metlife",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Group I"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "3rd Group C/D/F/G/H"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M78",
+    "numero": 78,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-06-30T17:00:00Z",
+    "estadioId": "att",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Runner-up Group E"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Runner-up Group I"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M79",
+    "numero": 79,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-07-01T01:00:00Z",
+    "estadioId": "azteca",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Group A"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "3rd Group C/E/F/H/I"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M80",
+    "numero": 80,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-07-01T16:00:00Z",
+    "estadioId": "mercedes",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Group L"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "3rd Group E/H/I/J/K"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M81",
+    "numero": 81,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-07-02T00:00:00Z",
+    "estadioId": "levis",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Group D"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "3rd Group B/E/F/I/J"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M82",
+    "numero": 82,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-07-01T20:00:00Z",
+    "estadioId": "lumen",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Group G"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "3rd Group A/E/H/I/J"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M83",
+    "numero": 83,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-07-02T23:00:00Z",
+    "estadioId": "bmo",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Runner-up Group K"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Runner-up Group L"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M84",
+    "numero": 84,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-07-02T19:00:00Z",
+    "estadioId": "sofi",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Group H"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Runner-up Group J"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M85",
+    "numero": 85,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-07-03T03:00:00Z",
+    "estadioId": "bcplace",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Group B"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "3rd Group E/F/G/I/J"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M86",
+    "numero": 86,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-07-03T22:00:00Z",
+    "estadioId": "hardrock",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Group J"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Runner-up Group H"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M87",
+    "numero": 87,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-07-04T01:30:00Z",
+    "estadioId": "arrowhead",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Group K"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "3rd Group D/E/I/J/L"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M88",
+    "numero": 88,
+    "fase": "16avos",
+    "dataHoraUTC": "2026-07-03T18:00:00Z",
+    "estadioId": "att",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Runner-up Group D"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Runner-up Group G"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M89",
+    "numero": 89,
+    "fase": "oitavas",
+    "dataHoraUTC": "2026-07-04T21:00:00Z",
+    "estadioId": "lincoln",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 74"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 77"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M90",
+    "numero": 90,
+    "fase": "oitavas",
+    "dataHoraUTC": "2026-07-04T17:00:00Z",
+    "estadioId": "nrg",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 73"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 75"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M91",
+    "numero": 91,
+    "fase": "oitavas",
+    "dataHoraUTC": "2026-07-05T20:00:00Z",
+    "estadioId": "metlife",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 76"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 78"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M92",
+    "numero": 92,
+    "fase": "oitavas",
+    "dataHoraUTC": "2026-07-06T00:00:00Z",
+    "estadioId": "azteca",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 79"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 80"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M93",
+    "numero": 93,
+    "fase": "oitavas",
+    "dataHoraUTC": "2026-07-06T19:00:00Z",
+    "estadioId": "att",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 83"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 84"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M94",
+    "numero": 94,
+    "fase": "oitavas",
+    "dataHoraUTC": "2026-07-07T00:00:00Z",
+    "estadioId": "lumen",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 81"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 82"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M95",
+    "numero": 95,
+    "fase": "oitavas",
+    "dataHoraUTC": "2026-07-07T16:00:00Z",
+    "estadioId": "mercedes",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 86"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 88"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M96",
+    "numero": 96,
+    "fase": "oitavas",
+    "dataHoraUTC": "2026-07-07T20:00:00Z",
+    "estadioId": "bcplace",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 85"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 87"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M97",
+    "numero": 97,
+    "fase": "quartas",
+    "dataHoraUTC": "2026-07-09T20:00:00Z",
+    "estadioId": "gillette",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 89"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 90"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M98",
+    "numero": 98,
+    "fase": "quartas",
+    "dataHoraUTC": "2026-07-10T19:00:00Z",
+    "estadioId": "sofi",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 93"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 94"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M99",
+    "numero": 99,
+    "fase": "quartas",
+    "dataHoraUTC": "2026-07-11T21:00:00Z",
+    "estadioId": "hardrock",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 91"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 92"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M100",
+    "numero": 100,
+    "fase": "quartas",
+    "dataHoraUTC": "2026-07-12T01:00:00Z",
+    "estadioId": "arrowhead",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 95"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 96"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M101",
+    "numero": 101,
+    "fase": "semi",
+    "dataHoraUTC": "2026-07-14T19:00:00Z",
+    "estadioId": "att",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 97"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 98"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M102",
+    "numero": 102,
+    "fase": "semi",
+    "dataHoraUTC": "2026-07-15T19:00:00Z",
+    "estadioId": "mercedes",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 99"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 100"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M103",
+    "numero": 103,
+    "fase": "terceiro",
+    "dataHoraUTC": "2026-07-18T21:00:00Z",
+    "estadioId": "hardrock",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Loser Match 101"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Loser Match 102"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  },
+  {
+    "id": "M104",
+    "numero": 104,
+    "fase": "final",
+    "dataHoraUTC": "2026-07-19T19:00:00Z",
+    "estadioId": "metlife",
+    "mandante": {
+      "tipo": "slot",
+      "ref": "Winner Match 101"
+    },
+    "visitante": {
+      "tipo": "slot",
+      "ref": "Winner Match 102"
+    },
+    "jogado": false,
+    "placar": {
+      "mandante": null,
+      "visitante": null
+    },
+    "eventos": [],
+    "penaltis": {
+      "mandante": null,
+      "visitante": null
+    }
+  }
+]

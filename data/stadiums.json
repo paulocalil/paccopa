@@ -1,0 +1,114 @@
+[
+  {
+    "id": "azteca",
+    "estadio": "Estádio Azteca",
+    "cidade": "Cidade do México",
+    "pais": "México",
+    "fuso": "America/Mexico_City"
+  },
+  {
+    "id": "akron",
+    "estadio": "Estádio Akron",
+    "cidade": "Guadalajara",
+    "pais": "México",
+    "fuso": "America/Mexico_City"
+  },
+  {
+    "id": "bbva",
+    "estadio": "Estádio BBVA",
+    "cidade": "Monterrey",
+    "pais": "México",
+    "fuso": "America/Monterrey"
+  },
+  {
+    "id": "att",
+    "estadio": "AT&T Stadium",
+    "cidade": "Dallas",
+    "pais": "Estados Unidos",
+    "fuso": "America/Chicago"
+  },
+  {
+    "id": "arrowhead",
+    "estadio": "Arrowhead Stadium",
+    "cidade": "Kansas City",
+    "pais": "Estados Unidos",
+    "fuso": "America/Chicago"
+  },
+  {
+    "id": "nrg",
+    "estadio": "NRG Stadium",
+    "cidade": "Houston",
+    "pais": "Estados Unidos",
+    "fuso": "America/Chicago"
+  },
+  {
+    "id": "mercedes",
+    "estadio": "Mercedes-Benz Stadium",
+    "cidade": "Atlanta",
+    "pais": "Estados Unidos",
+    "fuso": "America/New_York"
+  },
+  {
+    "id": "metlife",
+    "estadio": "MetLife Stadium",
+    "cidade": "Nova York / Nova Jersey",
+    "pais": "Estados Unidos",
+    "fuso": "America/New_York"
+  },
+  {
+    "id": "lincoln",
+    "estadio": "Lincoln Financial Field",
+    "cidade": "Filadélfia",
+    "pais": "Estados Unidos",
+    "fuso": "America/New_York"
+  },
+  {
+    "id": "gillette",
+    "estadio": "Gillette Stadium",
+    "cidade": "Boston",
+    "pais": "Estados Unidos",
+    "fuso": "America/New_York"
+  },
+  {
+    "id": "hardrock",
+    "estadio": "Hard Rock Stadium",
+    "cidade": "Miami",
+    "pais": "Estados Unidos",
+    "fuso": "America/New_York"
+  },
+  {
+    "id": "sofi",
+    "estadio": "SoFi Stadium",
+    "cidade": "Los Angeles",
+    "pais": "Estados Unidos",
+    "fuso": "America/Los_Angeles"
+  },
+  {
+    "id": "levis",
+    "estadio": "Levi's Stadium",
+    "cidade": "São Francisco",
+    "pais": "Estados Unidos",
+    "fuso": "America/Los_Angeles"
+  },
+  {
+    "id": "lumen",
+    "estadio": "Lumen Field",
+    "cidade": "Seattle",
+    "pais": "Estados Unidos",
+    "fuso": "America/Los_Angeles"
+  },
+  {
+    "id": "bcplace",
+    "estadio": "BC Place",
+    "cidade": "Vancouver",
+    "pais": "Canadá",
+    "fuso": "America/Vancouver"
+  },
+  {
+    "id": "bmo",
+    "estadio": "BMO Field",
+    "cidade": "Toronto",
+    "pais": "Canadá",
+    "fuso": "America/Toronto"
+  }
+]
