@@ -141,7 +141,7 @@
   },
   {
     "id": "NED",
-    "nome": "Países Baixos",
+    "nome": "Holanda",
     "sigla": "NED",
     "confederacao": "UEFA",
     "rankingFifa": 7
@@ -288,7 +288,7 @@
   },
   {
     "id": "COD",
-    "nome": "República Democrática do Congo",
+    "nome": "R.D. do Congo",
     "sigla": "COD",
     "confederacao": "CAF",
     "rankingFifa": 56

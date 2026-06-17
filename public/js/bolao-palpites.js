@@ -53,7 +53,8 @@ async function carregar(usuarioId) {
   try { dados = await api.get(`/api/bolao/palpites/${usuarioId}`); }
   catch (e) { alvo.append(vazio('⚠️', 'Erro', e.message)); return; }
 
-  const abertos = dados.jogos.filter((j) => j.editavel);
+  const abertos = dados.jogos.filter((j) => j.editavel).sort((a, b) =>
+      new Date(a.quando.iso) - new Date(b.quando.iso));
   const realizados = dados.jogos.filter((j) => !j.editavel);
 
   alvo.append(regrasEl());
