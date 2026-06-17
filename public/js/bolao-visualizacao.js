@@ -12,7 +12,7 @@ function confMini(j) {
     el('span', { html: siglaHTML(j.mandante.sigla, '?') }),
     el('span', { class: 'vs2' }, '×'),
     el('span', { html: siglaHTML(j.visitante.sigla, '?') }),
-    el('span', { class: 'nota', style: 'margin-left:4px' }, `${j.quando.diaSemana} ${j.quando.data.slice(0, 5)}`));
+    el('span', { class: 'nota', style: 'margin-left:4px' }, `${j.quando.diaSemana} ${j.quando.data.slice(0, 5)} ${j.quando.hora}`));
 }
 
 (async function init() {
@@ -26,8 +26,12 @@ function confMini(j) {
   }
 
   // só mostra jogos com confronto definido ou com alguma aposta
-  const jogos = dados.jogos.filter((j) =>
-    (j.mandante.definido && j.visitante.definido) || j.apostas.some((a) => a.palpite));
+  const jogos = dados.jogos
+    .filter((j) =>
+      (j.mandante.definido && j.visitante.definido) || j.apostas.some((a) => a.palpite))
+    .sort((a, b) =>
+      new Date(a.quando.iso) - new Date(b.quando.iso)
+  );
 
   const thead = el('tr', {},
     el('th', { class: 'jogo-col' }, 'Jogo'),

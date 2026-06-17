@@ -11,6 +11,7 @@ const NAV = [
   { href: '/terceiros.html', nome: 'Terceiros', chave: 'terceiros' },
   { href: '/mata-mata.html', nome: 'Mata-mata', chave: 'mata-mata' },
   { href: '/artilharia.html', nome: 'Artilharia', chave: 'artilharia' },
+  { href: '/estatisticas.html', nome: 'Estatísticas', chave: 'estatisticas' },
 ];
 
 const FASE_LABEL = {
@@ -74,16 +75,13 @@ function montarLayout(ativa) {
           <span class="sep"></span>
           <a href="/bolao-classificacao.html" class="${ativa === 'bolao' ? 'is-active' : ''}">Bolão</a>
         </nav>
-        <span class="status-pill" data-status-pill>
-          <span class="dot"></span><span data-status-text>conectando…</span>
-        </span>
       </div>
     </header>`;
 
   const footer = `
     <footer class="site-footer">
       <div class="container site-footer__inner">
-        <span>© 2026 <b>Pac Copa 2026</b> · projeto local · dados em arquivos JSON</span>
+        <span>© 2026 <b>Pac Copa 2026</b></span>
         <span class="flag-bar"><i></i><i></i><i></i></span>
       </div>
     </footer>`;
@@ -92,7 +90,6 @@ function montarLayout(ativa) {
   if (topo) topo.outerHTML = header;
   const rod = document.getElementById('rodape');
   if (rod) rod.outerHTML = footer;
-  atualizarStatus();
 }
 
 // Sub-navegação das páginas do bolão.
@@ -105,20 +102,6 @@ const BOLAO_NAV = [
 function subnavBolao(ativa) {
   return el('div', { class: 'subnav' },
     ...BOLAO_NAV.map((p) => el('a', { href: p.href, class: p.chave === ativa ? 'is-on' : '' }, p.nome)));
-}
-
-async function atualizarStatus() {
-  const pill = document.querySelector('[data-status-pill]');
-  if (!pill) return;
-  const txt = pill.querySelector('[data-status-text]');
-  try {
-    await api.get('/api/status');
-    pill.classList.add('is-online'); pill.classList.remove('is-offline');
-    if (txt) txt.textContent = 'Servidor no ar';
-  } catch {
-    pill.classList.add('is-offline'); pill.classList.remove('is-online');
-    if (txt) txt.textContent = 'Servidor offline';
-  }
 }
 
 /* ---------- Toast ---------- */
