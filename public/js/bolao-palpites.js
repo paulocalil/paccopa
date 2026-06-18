@@ -57,8 +57,6 @@ async function carregar(usuarioId) {
       new Date(a.quando.iso) - new Date(b.quando.iso));
   const realizados = dados.jogos.filter((j) => !j.editavel);
 
-  alvo.append(regrasEl());
-
   if (!abertos.length) {
     alvo.append(el('div', { class: 'aviso' }, el('span', { class: 'ic' }, 'ℹ️'),
       el('span', {}, 'Nenhum jogo aberto a palpite no momento (os próximos confrontos ainda dependem de resultados).')));
@@ -103,6 +101,7 @@ async function salvar(usuarioId) {
     ...users.map((u) => el('option', { value: u.id, ...(u.id === inicial ? { selected: '' } : {}) }, u.nome)));
 
   conteudo.append(
+    regrasEl(),
     el('div', { class: 'seletor' }, el('strong', {}, 'Apostador:'), sel),
     el('div', { id: 'palpites-area' }));
   carregar(inicial);
