@@ -7,6 +7,14 @@ document.getElementById('subnav').append(subnavBolao('visualizacao'));
 const conteudo = document.getElementById('conteudo');
 const seloEl = (pts) => el('span', { class: `selo p${pts}` }, String(pts));
 
+function regrasEl() {
+  const regra = (cls, n, txt) => el('div', { class: `regra ${cls}` }, el('b', {}, String(n)), el('small', {}, txt));
+  return el('div', { class: 'regras-bolao' },
+    regra('r15', 15, 'Placar exato'),
+    regra('r10', 10, 'Acertou o resultado (vencedor ou empate)'),
+    regra('r5', 5, 'Acertou o total de gols'));
+}
+
 function confMini(j) {
   return el('div', { class: 'conf-mini' },
     el('span', { html: siglaHTML(j.mandante.sigla, '?') }),
@@ -25,6 +33,8 @@ function confMini(j) {
     return;
   }
 
+  conteudo.append(regrasEl());
+  
   // só mostra jogos com confronto definido ou com alguma aposta
   const jogos = dados.jogos
     .filter((j) =>
