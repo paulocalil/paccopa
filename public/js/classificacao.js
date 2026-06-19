@@ -4,7 +4,7 @@ const { api, el, esc, siglaHTML, montarLayout, vazio } = window.PacCopa;
 montarLayout('classificacao');
 
 const COLS = [
-  ['pts', 'Pts'], ['j', 'J'], ['v', 'V'], ['e', 'E'], ['d', 'D'],
+  ['pts', 'P'], ['j', 'J'], ['v', 'V'], ['e', 'E'], ['d', 'D'],
   ['gp', 'GP'], ['gc', 'GC'], ['sg', 'SG'], ['amarelos', 'CA'], ['vermelhos', 'CV'],
 ];
 

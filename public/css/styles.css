@@ -544,6 +544,7 @@ tr.zona-terceiro td:first-child { box-shadow: inset 4px 0 0 var(--amarelo); }
 .confronto__lado.projetado .txt { color: var(--tinta-fraca); font-style: italic; }
 .confronto__lado.venceu { font-weight: 800; color: var(--verde-escuro); }
 .confronto__lado .gols { font-family: 'Anton', sans-serif; font-size: 1.05rem; }
+.confronto-separacao { margin-bottom: 6px; min-height: 57.5px; }
 
 /* Formulário de edição */
 .form-card { background: var(--carta); border: 1px solid var(--linha); border-radius: var(--raio); box-shadow: var(--sombra-sm); padding: 24px; margin-bottom: 20px; }
