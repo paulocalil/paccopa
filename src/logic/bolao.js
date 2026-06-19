@@ -36,7 +36,7 @@ function indexarPalpites(guesses) {
 
 /**
  * Classificação do bolão. Soma os pontos de cada usuário nos jogos realizados.
- * Desempate: nº de placares exatos → nome (alfabético).
+ * Desempate: nº de placares exatos → nº de resultados correstos sem placar exato → nome (alfabético).
  */
 function classificacao(users, guesses, matches, cfg) {
   const idx = indexarPalpites(guesses);
@@ -57,10 +57,17 @@ function classificacao(users, guesses, matches, cfg) {
     return { usuarioId: u.id, nome: u.nome, pontos, exatos, resultado, totalGols, palpitados, jogosAvaliados: realizados.length };
   });
 
-  linhas.sort((a, b) => b.pontos - a.pontos || b.exatos - a.exatos || a.nome.localeCompare(b.nome, 'pt-BR'));
+  linhas.sort((a, b) => b.pontos - a.pontos || b.exatos - a.exatos || b.resultado - a.resultado || a.nome.localeCompare(b.nome, 'pt-BR'));
 
-  let pos = 0, ant = null;
-  linhas.forEach((l, i) => { if (l.pontos !== ant) { pos = i + 1; ant = l.pontos; } l.posicao = pos; });
+  let pos = 0, pontosAnt = null, exatosAnt = null, resultadoAnt = null;
+  linhas.forEach((l, i) => {
+    if (l.pontos !== pontosAnt || l.exatos !== exatosAnt || l.resultado !== resultadoAnt) {
+      pos = i + 1;
+      pontosAnt = l.pontos;
+      exatosAnt = l.exatos;
+      resultadoAnt = l.resultado;
+    }
+    l.posicao = pos; });
   return linhas;
 }
 

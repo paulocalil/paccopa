@@ -7,6 +7,14 @@ document.getElementById('subnav').append(subnavBolao('classificacao'));
 const conteudo = document.getElementById('conteudo');
 const MEDALHAS = { 1: '🥇', 2: '🥈', 3: '🥉' };
 
+function regrasEl() {
+  const regra = (cls, n, txt) => el('div', { class: `regra ${cls}` }, el('b', {}, String(n)), el('small', {}, txt));
+  return el('div', { class: 'regras-bolao' },
+    regra('r15', 15, 'Placar exato'),
+    regra('r10', 10, 'Acertou o resultado (vencedor ou empate)'),
+    regra('r5', 5, 'Acertou o total de gols'));
+}
+
 (async function init() {
   let lista;
   try { lista = await api.get('/api/bolao/classificacao'); }
@@ -17,6 +25,8 @@ const MEDALHAS = { 1: '🥇', 2: '🥈', 3: '🥉' };
     return;
   }
 
+  conteudo.append(regrasEl());
+  
   const avaliados = lista[0].jogosAvaliados;
   conteudo.append(el('div', { class: 'nota', style: 'margin:6px 0 14px' },
     avaliados ? `Pontuação sobre ${avaliados} jogo${avaliados !== 1 ? 's' : ''} já realizado${avaliados !== 1 ? 's' : ''}.`
