@@ -3,7 +3,7 @@ const { api, el, esc, siglaHTML, montarLayout, vazio } = window.PacCopa;
 
 montarLayout('mata-mata');
 
-const fmtCurto = (iso) => new Intl.DateTimeFormat('pt-BR', { timeZone: 'America/Sao_Paulo', day: '2-digit', month: '2-digit' }).format(new Date(iso));
+const fmtCurto = (iso) => new Intl.DateTimeFormat('pt-BR', { timeZone: 'America/Sao_Paulo', day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' }).format(new Date(iso));
 
 let cidadePorEstadio = {};
 
