@@ -55,29 +55,17 @@ function linhaEvento(ev = {}, defaults = {}) {
 }
 
 function barraAtalhos(side, lista) {
-  return el(
-    'div',
-    { class: 'eventos-atalhos' },
-    el('span', { class: 'atalhos-time' }, side.label),
-    ...TIPOS.map(([tipo, label, icone]) =>
-      el(
-        'button',
-        {
-          type: 'button',
-          class: 'atalho-evento',
-          title: label,
-          onclick: () =>
-            lista.append(
-              linhaEvento({}, {
-                tipo,
-                timeId: side.id,
-              })
-            ),
-        },
-        icone
-      )
+  return el('div', { class: 'eventos-atalhos' },
+    el('span', { class: 'atalhos-time' }, side.label), ...TIPOS.map(([tipo, label, icone]) =>
+      el('button',{ type: 'button', class: 'atalho-evento', title: label,
+          onclick: () => lista.append( linhaEvento({}, { tipo, timeId: side.id, })),
+        }, icone)
     )
   );
+}
+
+function insereTime(time) {
+  return esc(time.nome || time.label);
 }
 
 function render() {
@@ -88,7 +76,7 @@ function render() {
   document.getElementById('ctx-fase').textContent =
     (jogo.grupo ? `Grupo ${jogo.grupo}` : FASE_LABEL[jogo.fase]) + ` · Jogo ${jogo.numero}`;
   document.getElementById('ctx-titulo').innerHTML =
-    `${esc(jogo.mandante.label)} <span style="color:var(--tinta-fraca)">×</span> ${esc(jogo.visitante.label)}`;
+    `${insereTime(jogo.mandante)} <span style="color:var(--tinta-fraca)">×</span> ${insereTime(jogo.visitante)}`;
   document.getElementById('ctx-sub').textContent =
     `${jogo.quando.rotulo}${jogo.estadio ? ` · ${jogo.estadio.estadio}, ${jogo.estadio.cidade}` : ''}`;
 
@@ -97,26 +85,34 @@ function render() {
   // ---- Placar ----
   const inM = el('input', { class: 'num', type: 'number', min: '0', max: '99', value: jogo.placar.mandante ?? '' });
   const inV = el('input', { class: 'num', type: 'number', min: '0', max: '99', value: jogo.placar.visitante ?? '' });
+  const atualizarExibePenaltis = () => {
+    jogo.placar.mandante = inM.value === '' ? null : Number(inM.value);
+    jogo.placar.visitante = inV.value === '' ? null : Number(inV.value);
+    render();
+  };
+  inM.addEventListener('change', atualizarExibePenaltis);
+  inV.addEventListener('change', atualizarExibePenaltis);
+  const exibirPenaltis = ehMata && (jogo.placar.mandante != null && jogo.placar.visitante != null && jogo.placar.mandante === jogo.placar.visitante);
   const cardPlacar = el('div', { class: 'form-card' },
     el('h3', {}, 'Placar'),
     el('div', { class: 'sub' }, 'Deixe em branco se a partida ainda não foi realizada.'),
     el('div', { class: 'placar-edit' },
-      el('div', { class: 'lado' }, el('span', { html: siglaHTML(jogo.mandante.sigla, '?') + ' <b>' + esc(jogo.mandante.label) + '</b>' }), inM),
+      el('div', { class: 'lado' }, el('span', { html: siglaHTML(jogo.mandante.sigla, '?') + ' <b>' + insereTime(jogo.mandante) + '</b>' }), inM),
       el('span', { class: 'x' }, '×'),
-      el('div', { class: 'lado' }, el('span', { html: siglaHTML(jogo.visitante.sigla, '?') + ' <b>' + esc(jogo.visitante.label) + '</b>' }), inV)));
+      el('div', { class: 'lado' }, el('span', { html: siglaHTML(jogo.visitante.sigla, '?') + ' <b>' + insereTime(jogo.visitante) + '</b>' }), inV)));
 
   // ---- Pênaltis (mata-mata) ----
   let inPM, inPV, cardPen = null;
-  if (ehMata) {
+  if (exibirPenaltis) {
     inPM = el('input', { class: 'num', type: 'number', min: '0', max: '30', value: jogo.penaltis?.mandante ?? '' });
     inPV = el('input', { class: 'num', type: 'number', min: '0', max: '30', value: jogo.penaltis?.visitante ?? '' });
     cardPen = el('div', { class: 'form-card' },
       el('h3', {}, 'Pênaltis'),
       el('div', { class: 'sub' }, 'Preencha apenas em caso de empate no tempo normal — define quem avança.'),
       el('div', { class: 'placar-edit' },
-        el('div', { class: 'lado' }, el('span', { html: '<b>' + esc(jogo.mandante.label) + '</b>' }), inPM),
+        el('div', { class: 'lado' }, el('span', { html: siglaHTML(jogo.mandante.sigla, '?') + ' <b>' + insereTime(jogo.mandante) + '</b>' }), inPM),
         el('span', { class: 'x' }, '×'),
-        el('div', { class: 'lado' }, el('span', { html: '<b>' + esc(jogo.visitante.label) + '</b>' }), inPV)));
+        el('div', { class: 'lado' }, el('span', { html: siglaHTML(jogo.visitante.sigla, '?') + ' <b>' + insereTime(jogo.visitante) + '</b>' }), inPV)));
   }
 
   // ---- Eventos ----
