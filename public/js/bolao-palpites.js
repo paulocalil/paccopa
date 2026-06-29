@@ -55,7 +55,8 @@ async function carregar(usuarioId) {
 
   const abertos = dados.jogos.filter((j) => j.editavel).sort((a, b) =>
       new Date(a.quando.iso) - new Date(b.quando.iso));
-  const realizados = dados.jogos.filter((j) => !j.editavel);
+  const realizados = dados.jogos.filter((j) => !j.editavel).sort((a, b) =>
+      new Date(a.quando.iso) - new Date(b.quando.iso));
 
   if (!abertos.length) {
     alvo.append(el('div', { class: 'aviso' }, el('span', { class: 'ic' }, 'ℹ️'),

@@ -6,12 +6,12 @@ montarLayout('jogos');
 const id = new URLSearchParams(location.search).get('id');
 
 const TIPOS = [
-  ['gol', 'Gol'],
-  ['gol-penalti', 'Gol (pênalti)'],
-  ['gol-contra', 'Gol contra'],
-  ['amarelo', 'Cartão amarelo'],
-  ['vermelho-direto', 'Vermelho direto'],
-  ['vermelho-2a', '2º amarelo (vermelho)'],
+  ['gol', 'Gol', '⚽'],
+  ['gol-penalti', 'Gol (pênalti)', '⚽P'],
+  ['gol-contra', 'Gol contra', '🥅'],
+  ['amarelo', 'Cartão amarelo', '🟨'],
+  ['vermelho-direto', 'Vermelho direto', '🟥'],
+  ['vermelho-2a', '2º amarelo (vermelho)', '🟨🟥'],
 ];
 
 const uiParaEvento = (ui, timeId, jogador, minuto) => {
@@ -34,18 +34,50 @@ const eventoParaUI = (ev) => {
 let jogo;
 let sides = []; // { id, label } dos lados com time resolvido
 
-function linhaEvento(ev = {}) {
+function linhaEvento(ev = {}, defaults = {}) {
+
+  const tipoInicial = ev.tipo ? eventoParaUI(ev) : (defaults.tipo || TIPOS[0][0]);
+  const timeInicial = ev.timeId || defaults.timeId || '';
+
   const selTipo = el('select', {}, ...TIPOS.map(([v, l]) =>
-    el('option', { value: v, ...(eventoParaUI(ev) === v && ev.tipo ? { selected: '' } : {}) }, l)));
+    el('option', {value: v, ...(tipoInicial === v ? { selected: '' } : {})}, l)));
+
   const selTime = el('select', {}, ...(sides.length
-    ? sides.map((s) => el('option', { value: s.id, ...(ev.timeId === s.id ? { selected: '' } : {}) }, s.label))
+    ? sides.map((s) => el('option', {value: s.id, ...(timeInicial === s.id ? { selected: '' } : {})}, s.label))
     : [el('option', { value: '' }, '—')]));
+
   const inJog = el('input', { type: 'text', placeholder: 'Jogador', value: ev.jogador || '' });
   const inMin = el('input', { type: 'number', min: '0', max: '130', placeholder: "min", value: ev.minuto ?? '' });
   const linha = el('div', { class: 'evento-linha' }, selTipo, selTime, inJog, inMin,
     el('button', { class: 'rm', title: 'Remover', onclick: () => linha.remove() }, '✕'));
   linha._coleta = () => uiParaEvento(selTipo.value, selTime.value, inJog.value.trim(), inMin.value);
   return linha;
+}
+
+function barraAtalhos(side, lista) {
+  return el(
+    'div',
+    { class: 'eventos-atalhos' },
+    el('span', { class: 'atalhos-time' }, side.label),
+    ...TIPOS.map(([tipo, label, icone]) =>
+      el(
+        'button',
+        {
+          type: 'button',
+          class: 'atalho-evento',
+          title: label,
+          onclick: () =>
+            lista.append(
+              linhaEvento({}, {
+                tipo,
+                timeId: side.id,
+              })
+            ),
+        },
+        icone
+      )
+    )
+  );
 }
 
 function render() {
@@ -97,7 +129,11 @@ function render() {
     el('div', { class: 'sub' }, podeEventos
       ? 'Gols alimentam a artilharia; cartões alimentam o fair play (desempate). Informe jogador e minuto quando souber.'
       : 'Os dois lados ainda são projeções — defina os classificados antes de lançar gols/cartões.'),
-    lista, addBtn);
+    lista,
+    addBtn,
+    ...(podeEventos
+      ? sides.map((side) => barraAtalhos(side, lista))
+      : []),);
 
   // ---- Ações ----
   const tg = el('input', { type: 'checkbox', ...(jogo.jogado ? { checked: '' } : {}) });
