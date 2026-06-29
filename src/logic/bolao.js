@@ -36,7 +36,7 @@ function indexarPalpites(guesses) {
 
 /**
  * Classificação do bolão. Soma os pontos de cada usuário nos jogos realizados.
- * Desempate: nº de placares exatos → nº de resultados correstos sem placar exato → nome (alfabético).
+ * Desempate: nº de placares exatos → nº de resultados corretos sem placar exato → nome (alfabético).
  */
 function classificacao(users, guesses, matches, cfg) {
   const idx = indexarPalpites(guesses);
