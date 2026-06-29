@@ -1565,12 +1565,48 @@
       "tipo": "time",
       "ref": "HAI"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 3,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "HAI",
+        "jogador": "Carlens ARCUS"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "BRA",
+        "jogador": "MATHEUS CUNHA"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "BRA",
+        "jogador": "MATHEUS CUNHA"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "BRA",
+        "jogador": "VINICIUS JUNIOR"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "HAI",
+        "jogador": "Frantzdy Pierrot"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "BRA",
+        "jogador": "DOUGLAS SANTOS"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "HAI",
+        "jogador": "Danley JEAN JACQUES"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1591,12 +1627,28 @@
       "tipo": "time",
       "ref": "MAR"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "MAR",
+        "jogador": "Ismael SAIBARI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "MAR",
+        "jogador": "Issa Diop"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "SCO",
+        "jogador": "Andy ROBERTSON"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1617,12 +1669,44 @@
       "tipo": "time",
       "ref": "PAR"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "PAR",
+        "jogador": "Matias GALARZA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "PAR",
+        "jogador": "Matias GALARZA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "PAR",
+        "jogador": "Carlos GONZALEZ"
+      },
+      {
+        "tipo": "vermelho",
+        "timeId": "PAR",
+        "jogador": "Miguel ALMIRON",
+        "subtipo": "direto"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "TUR",
+        "jogador": "Vincenzo MONTELLA"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "TUR",
+        "jogador": "Eren ELMALI"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1643,12 +1727,59 @@
       "tipo": "time",
       "ref": "AUS"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 2,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "AUS",
+        "jogador": "Cameron BURGESS (GC)",
+        "subtipo": "contra"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "AUS",
+        "jogador": "Jordan BOS"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "AUS",
+        "jogador": "Alessandro CIRCATI"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "USA",
+        "jogador": "Alex FREEMAN"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "USA",
+        "jogador": "Antonee ROBINSON"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "USA",
+        "jogador": "Folarin BALOGUN"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "AUS",
+        "jogador": "Jacob ITALIANO"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "AUS",
+        "jogador": "Harry SOUTTAR"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "USA",
+        "jogador": "Chris RICHARDS"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1669,12 +1800,28 @@
       "tipo": "time",
       "ref": "CIV"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 2,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "CIV",
+        "jogador": "Franck KESSIE"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "GER",
+        "jogador": "Deniz UNDAV"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "GER",
+        "jogador": "Deniz UNDAV"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1695,12 +1842,43 @@
       "tipo": "time",
       "ref": "CUW"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "ECU",
+        "jogador": "Jordy ALCIVAR"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "CUW",
+        "jogador": "Leandro BACUNA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "CUW",
+        "jogador": "Juninho BACUNA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "CUW",
+        "jogador": "Livano COMENENCIA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "CUW",
+        "jogador": "Jurien GAARI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "CUW",
+        "jogador": "Gervane KASTANEER"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1721,12 +1899,58 @@
       "tipo": "time",
       "ref": "SWE"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 5,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "NED",
+        "jogador": "Brian BROBBEY"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "NED",
+        "jogador": "Brian BROBBEY"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "NED",
+        "jogador": "Cody GAKPO"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "SWE",
+        "jogador": "Gabriel GUDMUNDSSON"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "NED",
+        "jogador": "Cody GAKPO"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "SWE",
+        "jogador": "Anthony ELANGA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "SWE",
+        "jogador": "Yasin AYARI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "SWE",
+        "jogador": "Lucas BERGVALL"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "NED",
+        "jogador": "Crysencio SUMMERVILLE"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1747,12 +1971,33 @@
       "tipo": "time",
       "ref": "JPN"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 4
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "JPN",
+        "jogador": "Daichi KAMADA"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "JPN",
+        "jogador": "Ayase UEDA"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "JPN",
+        "jogador": "Junya ITO"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "JPN",
+        "jogador": "Ayase UEDA"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1773,12 +2018,53 @@
       "tipo": "time",
       "ref": "CPV"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 2,
+      "visitante": 2
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "CPV",
+        "jogador": "SIDNY LOPES CABRAL"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "URU",
+        "jogador": "Rodrigo BENTANCUR"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "CPV",
+        "jogador": "KEVIN PINA"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "URU",
+        "jogador": "Maxi ARAUJO"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "URU",
+        "jogador": "Agustin CANOBBIO"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "URU",
+        "jogador": "Mathias OLIVERA"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "CPV",
+        "jogador": "HELIO VARELA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "URU",
+        "jogador": "DINEY BORGES"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1799,12 +2085,44 @@
       "tipo": "time",
       "ref": "KSA"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 4,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "ESP",
+        "jogador": "Lamine YAMAL"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ESP",
+        "jogador": "Mikel OYARZABAL"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ESP",
+        "jogador": "Mikel OYARZABAL"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "KSA",
+        "jogador": "SALEM ALDAWSARI"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "KSA",
+        "jogador": "HASSAN ALTAMBAKTI",
+        "subtipo": "contra"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "KSA",
+        "jogador": "MOHAMED KANNO"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1825,12 +2143,29 @@
       "tipo": "time",
       "ref": "IRN"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "BEL",
+        "jogador": "Romelu LUKAKU"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "IRN",
+        "jogador": "Saeid EZATOLAHI"
+      },
+      {
+        "tipo": "vermelho",
+        "timeId": "BEL",
+        "jogador": "Nathan NGOY",
+        "subtipo": "direto"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1851,12 +2186,48 @@
       "tipo": "time",
       "ref": "EGY"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 1,
+      "visitante": 3
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "NZL",
+        "jogador": "Finn SURMAN"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "EGY",
+        "jogador": "MOHANAD LASHIN"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "NZL",
+        "jogador": "Sarpreet SINGH"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "NZL",
+        "jogador": "Callum McCOWATT"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "EGY",
+        "jogador": "MOSTAFA ZICO"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "EGY",
+        "jogador": "MOHAMED SALAH"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "EGY",
+        "jogador": "TREZEGUET"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1877,12 +2248,38 @@
       "tipo": "time",
       "ref": "SEN"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 3,
+      "visitante": 2
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "NOR",
+        "jogador": "Marcus HOLMGREN PEDERSEN"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "NOR",
+        "jogador": "Erling HAALAND"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "SEN",
+        "jogador": "Ismaila SARR"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "NOR",
+        "jogador": "Erling HAALAND"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "SEN",
+        "jogador": "Ismaila SARR"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1903,12 +2300,33 @@
       "tipo": "time",
       "ref": "IRQ"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 3,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "IRQ",
+        "jogador": "AMIR ALAMMARI"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "FRA",
+        "jogador": "Kylian MBAPPE"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "FRA",
+        "jogador": "Kylian MBAPPE"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "FRA",
+        "jogador": "Ousmane DEMBELE"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1929,12 +2347,43 @@
       "tipo": "time",
       "ref": "AUT"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 2,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "ARG",
+        "jogador": "Lionel MESSI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "AUT",
+        "jogador": "Stefan POSCH"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "AUT",
+        "jogador": "Konrad LAIMER"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "ARG",
+        "jogador": "Facundo MEDINA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "ARG",
+        "jogador": "Leandro PAREDES"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ARG",
+        "jogador": "Lionel MESSI"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1955,12 +2404,38 @@
       "tipo": "time",
       "ref": "ALG"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 1,
+      "visitante": 2
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "JOR",
+        "jogador": "NIZAR ALRASHDAN"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "ALG",
+        "jogador": "Ramiz ZERROUKI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "JOR",
+        "jogador": "HUSAM ABUDAHAB"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ALG",
+        "jogador": "Nadhir BENBOUALI"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ALG",
+        "jogador": "Amine GOUIRI"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -1981,12 +2456,23 @@
       "tipo": "time",
       "ref": "GHA"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "ENG",
+        "jogador": "Declan RICE"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "GHA",
+        "jogador": "Inaki WILLIAMS"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2007,12 +2493,28 @@
       "tipo": "time",
       "ref": "CRO"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "CRO",
+        "jogador": "Ante BUDIMIR"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "PAN",
+        "jogador": "Edgar Yoel BARCENAS"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "CRO",
+        "jogador": "Petar SUCIC"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2033,12 +2535,49 @@
       "tipo": "time",
       "ref": "UZB"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 5,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "POR",
+        "jogador": "CRISTIANO RONALDO"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "UZB",
+        "jogador": "Odiljon XAMROBEKOV"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "POR",
+        "jogador": "NUNO MENDES"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "POR",
+        "jogador": "CRISTIANO RONALDO"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "UZB",
+        "jogador": "Abduvohid NEMATOV",
+        "subtipo": "contra"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "POR",
+        "jogador": "RENATO VEIGA"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "POR",
+        "jogador": "RAFAEL LEAO"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2059,12 +2598,33 @@
       "tipo": "time",
       "ref": "COD"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 1,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "COL",
+        "jogador": "Jhon LUCUMI"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "COL",
+        "jogador": "Daniel MUNOZ"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "COD",
+        "jogador": "Charles PICKEL"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "COL",
+        "jogador": "Jefferson LERMA"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2085,12 +2645,43 @@
       "tipo": "time",
       "ref": "BRA"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 3
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "BRA",
+        "jogador": "VINICIUS JUNIOR"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "BRA",
+        "jogador": "VINICIUS JUNIOR"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "BRA",
+        "jogador": "MATHEUS CUNHA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "BRA",
+        "jogador": "DANILO"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "BRA",
+        "jogador": "FABINHO"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "SCO",
+        "jogador": "Ryan Christie"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2111,12 +2702,59 @@
       "tipo": "time",
       "ref": "HAI"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 4,
+      "visitante": 2
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "MAR",
+        "jogador": "Yassine BOUNOU",
+        "subtipo": "contra"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "MAR",
+        "jogador": "Achraf HAKIMI"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "HAI",
+        "jogador": "Wilson Isidor"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "MAR",
+        "jogador": "Ismael SAIBARI"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "MAR",
+        "jogador": "Soufiane RAHIMI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "HAI",
+        "jogador": "Johny Placide"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "HAI",
+        "jogador": "Duckens NAZON"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "MAR",
+        "jogador": "Gessime YASSINE"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "HAI",
+        "jogador": "Josue CASIMIR"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2137,12 +2775,43 @@
       "tipo": "time",
       "ref": "CAN"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 2,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "CAN",
+        "jogador": "Cyle LARIN"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "SUI",
+        "jogador": "Granit XHAKA"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "SUI",
+        "jogador": "Ruben VARGAS"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "SUI",
+        "jogador": "Johan MANZAMBI"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "CAN",
+        "jogador": "Promise DAVID"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "CAN",
+        "jogador": "Liam MILLAR"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2163,12 +2832,44 @@
       "tipo": "time",
       "ref": "QAT"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 3,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "BIH",
+        "jogador": "Kerim ALAJBEGOVIC"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "QAT",
+        "jogador": "MAHMOUD ABUNADA",
+        "subtipo": "contra"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "QAT",
+        "jogador": "HASSAN ALHAYDOS"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "QAT",
+        "jogador": "AHMED FATHY"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "BIH",
+        "jogador": "Ermin MAHMIC"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "BIH",
+        "jogador": "Ermin MAHMIC"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2189,12 +2890,33 @@
       "tipo": "time",
       "ref": "MEX"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 3
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "MEX",
+        "jogador": "Mateo CHAVEZ"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "MEX",
+        "jogador": "Julian QUINONES"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "MEX",
+        "jogador": "Edson ALVAREZ"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "MEX",
+        "jogador": "Alvaro FIDALGO"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2215,12 +2937,28 @@
       "tipo": "time",
       "ref": "KOR"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 1,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "RSA",
+        "jogador": "Thapelo MASEKO"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "RSA",
+        "jogador": "Aubrey MODIBA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "KOR",
+        "jogador": "CHO Guesung"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2241,12 +2979,38 @@
       "tipo": "time",
       "ref": "CIV"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 2
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "CIV",
+        "jogador": "Nicolas PEPE"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "CIV",
+        "jogador": "Nicolas PEPE"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "CIV",
+        "jogador": "Nicolas PEPE"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "CUW",
+        "jogador": "Juninho BACUNA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "CUW",
+        "jogador": "Gervane KASTANEER"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2267,12 +3031,48 @@
       "tipo": "time",
       "ref": "GER"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 2,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "GER",
+        "jogador": "Leroy SANE"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ECU",
+        "jogador": "Nilson ANGULO"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "ECU",
+        "jogador": "Piero HINCAPIE"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "GER",
+        "jogador": "Aleksandar PAVLOVIC"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "ECU",
+        "jogador": "Alan FRANCO"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ECU",
+        "jogador": "Gonzalo PLATA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "ECU",
+        "jogador": "Gonzalo PLATA"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2293,12 +3093,38 @@
       "tipo": "time",
       "ref": "SWE"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 1,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "SWE",
+        "jogador": "Isak HIEN"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "JPN",
+        "jogador": "Daizen MAEDA"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "SWE",
+        "jogador": "Anthony ELANGA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "JPN",
+        "jogador": "Shogo TANIGUCHI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "SWE",
+        "jogador": "Viktor GYOKERES"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2319,12 +3145,34 @@
       "tipo": "time",
       "ref": "NED"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 1,
+      "visitante": 3
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "TUN",
+        "jogador": "Ellyes SKHIRI",
+        "subtipo": "contra"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "NED",
+        "jogador": "Brian BROBBEY"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "TUN",
+        "jogador": "Hazem MASTOURI"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "NED",
+        "jogador": "Jan Paul VAN HECKE"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2345,12 +3193,43 @@
       "tipo": "time",
       "ref": "USA"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 3,
+      "visitante": 2
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "USA",
+        "jogador": "Auston TRUSTY"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "TUR",
+        "jogador": "Arda GULER"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "USA",
+        "jogador": "Sebastian BERHALTER"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "TUR",
+        "jogador": "Baris Alper YILMAZ"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "USA",
+        "jogador": "Sebastian BERHALTER"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "TUR",
+        "jogador": "Kaan Ayhan"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2371,12 +3250,23 @@
       "tipo": "time",
       "ref": "AUS"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "AUS",
+        "jogador": "Jackson IRVINE"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "PAR",
+        "jogador": "Diego GOMEZ"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2397,12 +3287,48 @@
       "tipo": "time",
       "ref": "FRA"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 1,
+      "visitante": 4
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "FRA",
+        "jogador": "Ousmane DEMBELE"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "NOR",
+        "jogador": "Patrick BERG"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "FRA",
+        "jogador": "Ousmane DEMBELE"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "NOR",
+        "jogador": "Thelo AASGAARD"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "FRA",
+        "jogador": "Ousmane DEMBELE"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "FRA",
+        "jogador": "Aurelien TCHOUAMENI"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "FRA",
+        "jogador": "Desire DOUE"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2423,12 +3349,64 @@
       "tipo": "time",
       "ref": "IRQ"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 5,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "SEN",
+        "jogador": "Habib DIARRA"
+      },
+      {
+        "tipo": "vermelho",
+        "timeId": "IRQ",
+        "jogador": "REBIN SULAKA",
+        "subtipo": "direto"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "SEN",
+        "jogador": "Abdoulaye Seck"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "SEN",
+        "jogador": "Ismaila SARR"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "SEN",
+        "jogador": "Pape GUEYE"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "SEN",
+        "jogador": "Pape GUEYE"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "IRQ",
+        "jogador": "AMIR ALAMMARI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "SEN",
+        "jogador": "Pape GUEYE"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "SEN",
+        "jogador": "Iliman NDIAYE"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "IRQ",
+        "jogador": "MERCHAS DOSKI"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2449,12 +3427,58 @@
       "tipo": "time",
       "ref": "IRN"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 1,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "EGY",
+        "jogador": "MAHMOUD SABER"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "IRN",
+        "jogador": "Ramin REZAEIAN"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "IRN",
+        "jogador": "Hossein KANANI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "EGY",
+        "jogador": "MAHMOUD SABER"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "EGY",
+        "jogador": "YASSER IBRAHIM"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "IRN",
+        "jogador": "Ali NEMATI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "IRN",
+        "jogador": "Saeid EZATOLAHI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "EGY",
+        "jogador": "MOHANAD LASHIN"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "IRN",
+        "jogador": "Shoja KHALILZADEH"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2475,12 +3499,53 @@
       "tipo": "time",
       "ref": "BEL"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 1,
+      "visitante": 5
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "BEL",
+        "jogador": "Leandro TROSSARD"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "NZL",
+        "jogador": "Marko STAMENIC"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "BEL",
+        "jogador": "Leandro TROSSARD"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "NZL",
+        "jogador": "Elijah JUST"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "BEL",
+        "jogador": "Kevin DE BRUYNE"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "NZL",
+        "jogador": "Elijah JUST"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "BEL",
+        "jogador": "Romelu LUKAKU"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "BEL",
+        "jogador": "Alexis SAELEMAEKERS"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2501,12 +3566,33 @@
       "tipo": "time",
       "ref": "KSA"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "KSA",
+        "jogador": "SAUD ABDULHAMID"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "CPV",
+        "jogador": "WAGNER PINA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "KSA",
+        "jogador": "NASSER ALDAWSARI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "KSA",
+        "jogador": "FERAS ALBRIKAN"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2527,12 +3613,44 @@
       "tipo": "time",
       "ref": "ESP"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "ESP",
+        "jogador": "Alex BAENA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "ESP",
+        "jogador": "Alex BAENA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "URU",
+        "jogador": "Juan Manuel SANABRIA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "URU",
+        "jogador": "Guillermo VARELA"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "URU",
+        "jogador": "Nicolas DE LA CRUZ"
+      },
+      {
+        "tipo": "vermelho",
+        "timeId": "URU",
+        "jogador": "Agustin CANOBBIO",
+        "subtipo": "direto"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2553,12 +3671,38 @@
       "tipo": "time",
       "ref": "ENG"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 2
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "PAN",
+        "jogador": "Jose FAJARDO"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "ENG",
+        "jogador": "Jarell QUANSAH"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ENG",
+        "jogador": "Jude BELLINGHAM"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ENG",
+        "jogador": "Harry KANE"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "PAN",
+        "jogador": "Andres ANDRADE"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2579,12 +3723,38 @@
       "tipo": "time",
       "ref": "GHA"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 2,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "CRO",
+        "jogador": "Petar SUCIC"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "CRO",
+        "jogador": "Ivan PERISIC"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "GHA",
+        "jogador": "Derrick LUCKASSEN"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "CRO",
+        "jogador": "Nikola VLASIC"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "GHA",
+        "jogador": "Kojo Peprah OPPONG"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2605,12 +3775,48 @@
       "tipo": "time",
       "ref": "AUT"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 3,
+      "visitante": 3
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "AUT",
+        "jogador": "Marko ARNAUTOVIC"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "AUT",
+        "jogador": "Marko ARNAUTOVIC"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ALG",
+        "jogador": "Rafik BELGHALI"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "AUT",
+        "jogador": "Marcel SABITZER"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ALG",
+        "jogador": "Riyad Mahrez"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ALG",
+        "jogador": "Riyad Mahrez"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "AUT",
+        "jogador": "Sasa KALAJDZIC"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2631,12 +3837,48 @@
       "tipo": "time",
       "ref": "ARG"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 1,
+      "visitante": 3
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "JOR",
+        "jogador": "MOHANNAD ABUTAHA"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ARG",
+        "jogador": "Giovani Lo Celso"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ARG",
+        "jogador": "Lautaro MARTINEZ"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "JOR",
+        "jogador": "MOUSA ALTAMARI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "JOR",
+        "jogador": "YAZAN ALARAB"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "ARG",
+        "jogador": "Lionel MESSI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "JOR",
+        "jogador": "MOHAMMAD ABUZRAIQ"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2657,12 +3899,18 @@
       "tipo": "time",
       "ref": "POR"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 0,
+      "visitante": 0
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "amarelo",
+        "timeId": "COL",
+        "jogador": "Gustavo PUERTA"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
@@ -2683,12 +3931,58 @@
       "tipo": "time",
       "ref": "UZB"
     },
-    "jogado": false,
+    "jogado": true,
     "placar": {
-      "mandante": null,
-      "visitante": null
+      "mandante": 3,
+      "visitante": 1
     },
-    "eventos": [],
+    "eventos": [
+      {
+        "tipo": "gol",
+        "timeId": "UZB",
+        "jogador": "Eldor SHOMURODOV"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "COD",
+        "jogador": "Noah SADIKI"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "UZB",
+        "jogador": "Abdukodir KHUSANOV"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "COD",
+        "jogador": "Nathanael MBUKU"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "UZB",
+        "jogador": "Sherzod NASRULLAEV"
+      },
+      {
+        "tipo": "amarelo",
+        "timeId": "COD",
+        "jogador": "Samuel Moutoussamy"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "COD",
+        "jogador": "Yoane WISSA"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "COD",
+        "jogador": "Fiston MAYELE"
+      },
+      {
+        "tipo": "gol",
+        "timeId": "COD",
+        "jogador": "Yoane WISSA"
+      }
+    ],
     "penaltis": {
       "mandante": null,
       "visitante": null
