@@ -512,6 +512,70 @@
     }
   },
   {
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M23",
+    "palpite": {
+      "mandante": 4,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M22",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 2
+    }
+  },
+  {
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M21",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M24",
+    "palpite": {
+      "mandante": 0,
+      "visitante": 3
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M23",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M22",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 2
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M21",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M24",
+    "palpite": {
+      "mandante": 0,
+      "visitante": 3
+    }
+  },
+  {
     "usuarioId": "umq1gfix4qt",
     "jogoId": "M25",
     "palpite": {
@@ -541,6 +605,246 @@
     "palpite": {
       "mandante": 2,
       "visitante": 2
+    }
+  },
+  {
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M25",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M26",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M27",
+    "palpite": {
+      "mandante": 3,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M28",
+    "palpite": {
+      "mandante": 1,
+      "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M25",
+    "palpite": {
+      "mandante": 1,
+      "visitante": 2
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M26",
+    "palpite": {
+      "mandante": 3,
+      "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M27",
+    "palpite": {
+      "mandante": 1,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M28",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M32",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M30",
+    "palpite": {
+      "mandante": 1,
+      "visitante": 3
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M29",
+    "palpite": {
+      "mandante": 3,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M31",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M35",
+    "palpite": {
+      "mandante": 1,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M33",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M34",
+    "palpite": {
+      "mandante": 3,
+      "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M36",
+    "palpite": {
+      "mandante": 0,
+      "visitante": 3
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M38",
+    "palpite": {
+      "mandante": 3,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M39",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M37",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 2
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M40",
+    "palpite": {
+      "mandante": 0,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M43",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M42",
+    "palpite": {
+      "mandante": 5,
+      "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M41",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 2
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M44",
+    "palpite": {
+      "mandante": 0,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M47",
+    "palpite": {
+      "mandante": 3,
+      "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M45",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M46",
+    "palpite": {
+      "mandante": 0,
+      "visitante": 2
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M48",
+    "palpite": {
+      "mandante": 1,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M49",
+    "palpite": {
+      "mandante": 0,
+      "visitante": 2
+    }
+  },
+  {
+    "usuarioId": "umq1gft0nmo",
+    "jogoId": "M50",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 0
     }
   },
   {
@@ -672,74 +976,74 @@
     }
   },
   {
-    "usuarioId": "umq1gfnewki",
-    "jogoId": "M23",
+    "usuarioId": "umq1gfix4qt",
+    "jogoId": "M47",
     "palpite": {
-      "mandante": 4,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gfnewki",
-    "jogoId": "M22",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 2
-    }
-  },
-  {
-    "usuarioId": "umq1gfnewki",
-    "jogoId": "M21",
-    "palpite": {
-      "mandante": 2,
+      "mandante": 3,
       "visitante": 0
     }
   },
   {
-    "usuarioId": "umq1gfnewki",
-    "jogoId": "M24",
-    "palpite": {
-      "mandante": 0,
-      "visitante": 3
-    }
-  },
-  {
-    "usuarioId": "umq1gfnewki",
-    "jogoId": "M25",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gfnewki",
-    "jogoId": "M26",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gfnewki",
-    "jogoId": "M27",
+    "usuarioId": "umq1gfix4qt",
+    "jogoId": "M45",
     "palpite": {
       "mandante": 3,
       "visitante": 1
     }
   },
   {
-    "usuarioId": "umq1gfnewki",
-    "jogoId": "M28",
+    "usuarioId": "umq1gfix4qt",
+    "jogoId": "M46",
     "palpite": {
       "mandante": 1,
+      "visitante": 3
+    }
+  },
+  {
+    "usuarioId": "umq1gfix4qt",
+    "jogoId": "M48",
+    "palpite": {
+      "mandante": 2,
       "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gfix4qt",
+    "jogoId": "M51",
+    "palpite": {
+      "mandante": 2,
+      "visitante": 2
+    }
+  },
+  {
+    "usuarioId": "umq1gfix4qt",
+    "jogoId": "M52",
+    "palpite": {
+      "mandante": 3,
+      "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gfix4qt",
+    "jogoId": "M53",
+    "palpite": {
+      "mandante": 1,
+      "visitante": 1
+    }
+  },
+  {
+    "usuarioId": "umq1gfix4qt",
+    "jogoId": "M54",
+    "palpite": {
+      "mandante": 0,
+      "visitante": 2
     }
   },
   {
     "usuarioId": "umq1gfnewki",
     "jogoId": "M32",
     "palpite": {
-      "mandante": 2,
+      "mandante": 4,
       "visitante": 1
     }
   },
@@ -763,7 +1067,7 @@
     "usuarioId": "umq1gfnewki",
     "jogoId": "M31",
     "palpite": {
-      "mandante": 3,
+      "mandante": 2,
       "visitante": 0
     }
   },
@@ -867,16 +1171,16 @@
     "usuarioId": "umq1gfnewki",
     "jogoId": "M47",
     "palpite": {
+      "mandante": 3,
+      "visitante": 0
+    }
+  },
+  {
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M45",
+    "palpite": {
       "mandante": 4,
-      "visitante": 0
-    }
-  },
-  {
-    "usuarioId": "umq1gfnewki",
-    "jogoId": "M45",
-    "palpite": {
-      "mandante": 3,
-      "visitante": 0
+      "visitante": 1
     }
   },
   {
@@ -884,7 +1188,7 @@
     "jogoId": "M46",
     "palpite": {
       "mandante": 0,
-      "visitante": 4
+      "visitante": 3
     }
   },
   {
@@ -896,243 +1200,35 @@
     }
   },
   {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M23",
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M51",
     "palpite": {
       "mandante": 2,
       "visitante": 1
     }
   },
   {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M22",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 2
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M21",
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M52",
     "palpite": {
       "mandante": 2,
       "visitante": 0
     }
   },
   {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M24",
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M53",
+    "palpite": {
+      "mandante": 0,
+      "visitante": 2
+    }
+  },
+  {
+    "usuarioId": "umq1gfnewki",
+    "jogoId": "M54",
     "palpite": {
       "mandante": 0,
       "visitante": 3
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M25",
-    "palpite": {
-      "mandante": 1,
-      "visitante": 2
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M26",
-    "palpite": {
-      "mandante": 3,
-      "visitante": 0
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M27",
-    "palpite": {
-      "mandante": 1,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M28",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M32",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 0
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M30",
-    "palpite": {
-      "mandante": 1,
-      "visitante": 3
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M29",
-    "palpite": {
-      "mandante": 3,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M31",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M35",
-    "palpite": {
-      "mandante": 1,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M33",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M34",
-    "palpite": {
-      "mandante": 3,
-      "visitante": 0
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M36",
-    "palpite": {
-      "mandante": 0,
-      "visitante": 3
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M38",
-    "palpite": {
-      "mandante": 3,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M39",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 0
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M37",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 2
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M40",
-    "palpite": {
-      "mandante": 0,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M43",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M42",
-    "palpite": {
-      "mandante": 5,
-      "visitante": 0
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M41",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 2
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M44",
-    "palpite": {
-      "mandante": 0,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M47",
-    "palpite": {
-      "mandante": 3,
-      "visitante": 0
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M45",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 2
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M46",
-    "palpite": {
-      "mandante": 0,
-      "visitante": 2
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M48",
-    "palpite": {
-      "mandante": 1,
-      "visitante": 1
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M49",
-    "palpite": {
-      "mandante": 0,
-      "visitante": 2
-    }
-  },
-  {
-    "usuarioId": "umq1gft0nmo",
-    "jogoId": "M50",
-    "palpite": {
-      "mandante": 2,
-      "visitante": 0
     }
   }
 ]
